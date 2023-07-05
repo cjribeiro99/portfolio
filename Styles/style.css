@@ -140,4 +140,7 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+    .lista_nao_ordenada {
+        width: auto;
+    }
 }
