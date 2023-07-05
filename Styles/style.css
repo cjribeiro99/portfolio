@@ -140,6 +140,9 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+    .apresentacao__conteudo__titulo{
+        width: auto;
+    }
     .lista_nao_ordenada {
         width: auto;
     }
