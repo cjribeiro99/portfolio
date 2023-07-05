@@ -138,15 +138,6 @@ body {
         padding: 5%;
     }
     .apresentacao__conteudo {
-        justify-content: center;
-        width: auto;
-    }
-    .apresentacao__conteudo__titulo{
-        justify-content: center;
-        width: auto;
-    }
-    .lista_nao_ordenada {
-        justify-content: center;
         width: auto;
     }
 }
