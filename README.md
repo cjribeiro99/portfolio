@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://drive.google.com/drive/my-drive?q=type:image)
+![image](https://github.com/cjribeiro99/portfolio/blob/main/assets/portfolio.image.png)
 
 ## Ferramentas utilizadas:
 
